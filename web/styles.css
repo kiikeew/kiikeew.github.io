@@ -8,5 +8,6 @@ p {
 }
 
 body {
-    background-color: #000; /* Fondo  
+    background-color: #000; /* Fondo negro */
+    color: #00e6e6; /* Texto aqua */
 }
